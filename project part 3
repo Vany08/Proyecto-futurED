@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Icecreams and smoothies</title>
+    <link rel="shortcut icon" type="image" href="imagenes/favicon-32x32.png"
+</head>
+
+<style type="text/css">
+.btx{text-align: center; color: aquamarine; color:cadetblue; border-radius: 10px; margin-inline: 500px;}                                                    
+
+#logo {
+ width: 60px;
+}
+</style>
+
+<body style="background-image: url(https://i.pinimg.com/564x/95/bd/98/95bd98bb3b6d42a76e8059962c4ea2e9.jpg);">
+   <div style= "background-color: lemonchiffon; width: 1300px; height: 200px;font-family:'Times New Roman', Times, serif; font-size: 120px; text-align: center;">Icecreams and smoothies</div>
+    
+   <h1>
+       <p>
+           <img src="imagenes/we smoothie bears.jpg" align="left" alt="We Icecream bears">
+       </p>
+
+       <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;">We Ice Cream Bears</h1>
+       <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;">This bears are so sweat!</h1>
+       <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+       <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+       <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+       <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Chocolate and chocolate coockies</p>
+       <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Yogurt and chocolate and chocolate coockies</p>
+       <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Yogurt and white chocolate coockies </p>
+    </h1>
+
+    <h1>
+        <p>
+            <img src="imagenes/Smoores Ice cream.jpg" width="700" height="700" align="right" alt="S'mooor">
+        </p>
+        <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Esmoooorrr</h1>
+        <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;">A delicious smoore in a delicious way</h1>
+        <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+        <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">If you want this milkshake please call this phone: 8333923407</p>
+        <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Ingredients</p>
+        <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">S'mores</p>
+        <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Vanilla</p>
+        <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Chocolate</p>
+    </h1>
+
+    <h1>
+    <p>
+     <img src="imagenes/barss.jpg" width="600" height="600" align="left" alt="Barss">  
+    </p>
+        <h1 style="color:white; font-family: cursive; font-size: 30px; text-align: center;">Icecream bars</h1>
+       <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;">A really healthy snack</h1>
+       <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+       <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+       <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+       <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Strawberries</p>
+       <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Milk</p>
+       <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Pink chocolate</p>
+
+    </h1>
+
+<h1>
+    <p>
+      <img src="imagenes/Rasberry.jpg" width="600" height="700" margin="100" align="right" alt="Rasberry">                                                                                                      
+    </p>
+    <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;">SRCIM</h1>
+    <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;">A combinaton sweet raspberry chesscake ice cream</h1>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Cream chesse</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Raspberries</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Graham cracker</p>
+</h1>
+
+<h1>
+    <p>
+      <img src="imagenes/oreo.jpg" width="600" height="600" align="left" alt="Oreo">
+    </p>
+    <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Oreo, oreoo</h1>
+    <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Its oreo, and icecream who dont want this!!</h1>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Chocolate</p>                    
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Oreos</p>
+</h1>
+
+<h1>
+<p>
+   <img src="imagenes/Baileys.jpg" width="700" height="700" margin= "50" align="right" alt="Baileys">
+</p>
+<h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;"><br><br>Bailey's milshake</h1>
+<h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Only one thing to say DELICIOUS!!</h1>
+<p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+<p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">If you want this milshake please call this phone: 8333923407</p>
+<p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+<p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Coockies</p>
+<p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Chocolate</p>
+<p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Baileys</p>
+</h1>
+
+<h1>
+    <p>
+      <img src="imagenes/mintd.jpg" width="600" height="590" margin= "80" align="left" alt="mintd">
+    </p>
+    <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;"><br>Green and brown</h1>
+    <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Is mint just mindt</h1>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">If you want this milkshake please call this phone: 8333923407</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Mint</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Chocolate</p>
+</h1>
+
+<h1>
+    <p>
+    <img src="imagenes/icecramdor.jpg" width="700" height="700" margin="50" align="right" alt="Icecreamdor">
+    </p>
+  <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;"><br><br>Icecreamdor</h1>
+    <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;">You are an icecream Harry</h1>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Dark chocolate</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Chocolate</p>
+</h1>
+
+<h1>
+    <p>
+    <img src="imagenes/Perfect.jpg" width="600" height="600" margin= "300" align="left" alt="perfect">
+    </p>
+    <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;"><br><br><br>The pérfect milshake</h1>
+    <h1 style="color: white; font-family: cursive; font-size: 30px; text-align: center;">A milshake</h1>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">If you want this milkshake please call this phone: 8333923407</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Yogurt</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Sprinkles</p>
+    <p style="color: white; font-family: cursive; font-size: 30px; text-align: center;">Cherry</p>
+</h1>
+
+<div id="btx">
+    <a href="short cake bakery.html"; title="principal">   
+    <button style="text-align: center; font-size: 30px; font-family:'Times New Roman', Times, serif; width: 300px; height: 100px;"class="bt1 btx">Short bakery
+    </button> 
+    
+    <audio>
+        <video width="800" height="2000" autoplay>
+            <source src="videos/Y2mate.mx-Ghibli Vibes - Howl's Moving Castle (Kato Cover).mp4" type="video/mp4">
+        </video>
+        </audio>
+
+</body>
+</html>
