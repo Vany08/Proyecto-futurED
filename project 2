@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cakes</title>
+    <link rel="shortcut icon" type="image" href="imagenes/favicon-32x32.png"
+</head>
+
+<style type="text/css">
+.btx{text-align: center; color: aquamarine; color:cadetblue; border-radius: 10px; margin-inline: 500px;}                                                    
+
+
+#logo {
+ width: 60px;
+}
+</style>
+
+
+<body style="background-image: url(https://i.pinimg.com/564x/ed/4a/a6/ed4aa61756707d0b730ea72f027c0260.jpg);">
+   <div style= "background-color: rgb(255, 185, 219); width: 1300px; height: 200px; font-size: 190px; text-align: center;">CAKES</div>  
+
+   <h1>
+    <p>
+ <img src="imagenes/its leviOsa not leviosAA.jpg" align="left" alt="Harry Potter Cake">
+</p>
+    <h1 style="color: lavender; font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Its leviOsa not leviosAA</p>
+    <h1 style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">A Harry Potter cake for wizards and witches who wants to live the true Hogwarts experience</h2>
+    <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Price: 40$</p>
+    <p style="color:  lavender; font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">If you want this cake please call this phone: 8333923407</p>
+    <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Ingredients:</p>
+    <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Chocolate foundiu</p>    
+    <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">White chocolate cover</p>        
+    <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Coconut Filling</p>
+
+    <h2>
+    <p>
+      <img src="imagenes/we cake bears.png" align="right" alt="We bare bears cake">
+</p> 
+       
+    <h1 style="color: lavender; font-family: 'Times New Roman', Times, serif; font-size: 28px; text-align: center;"><br><br><br><br>Delicious Bears<br></h1>
+    <h1 style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Sweet, sweetness and cute cutenest every day; who´s your favorite bear?</h1>
+    <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Price: 100$</p>
+    <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">If you want this cake please call this phone: 8333923407</p>
+    <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Ingredients:</p>
+    <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Strawberries filling and strawberries</p>
+    <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Bananas cover and bananas</p>
+    <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Bears cookies</p>
+</h2>
+
+    <h3>
+        <p>
+        <img src="imagenes/Pekné a chutné inšpirácie z netu 3 🙂.jpg" width="600px" height="600px" align="left" alt="Wanna a cup of tea?">
+    </p>
+       
+       <h1 style="color: lavender; font-family: 'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Fancy sweetness</h1>
+       <h1 style="color: lavender; font-family: 'Times New Roman', Times, serif; font-size: 28px; text-align: center;">So.... what do you want to choose</h1>
+       <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Price: 180$</p>
+       <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">If you want this cake please call this phone: 8333923407</p>
+       <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Ingredients:</p>
+       <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Strawberry frosting</p>
+       <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Blueberry filling and frosting</p>
+       <p style="color:  lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Macaron</p>
+       <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Pink chocolate</p>
+       <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Coockies and candy</p>
+    </h3>
+
+    <h4>
+        <p>
+            <img src="imagenes/Vintage Books Cake.jpg" width="600px" height="600px" align="right" alt="books">
+        </p>
+
+        <h1 style="color: lavender; font-family: 'Times New Roman', Times, serif; font-size: 28px; text-align: center;"><br>EAT SOME BOOCKZ, YES WITH Z<br></h1>
+        <h1 style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Knowledge never tasted so good</h1>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Price: 250$</p>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">If you want this cake please call this phone: 8333923407</p>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Ingredients:</p>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Chocalate filling</p>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Foundiu</p>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">White chocolate</p> 
+    </h4>
+
+    <h5>
+        <p>
+            <img src="imagenes/teacup.jpg" width="789px" height="800px" margin= "50" align="left" alt="Wanna a cup of tea?">
+        </p>    
+        <h1 style="color: lavender; font-family: 'Times New Roman', Times, serif; font-size: 28px; text-align: center;"><br><br><br><br>Wanna a cup of tea?<br></h1>
+        <h1 style="color: lavender; font-family: 'Times New Roman', Times, serif; font-size: 28px; text-align: center;">For an elegant tea party</h1>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Price: 250$</p>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">If you want this cake please call this phone: 8333923407</p>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Ingredients:</p>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Foundiu</p>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Apple filling</p>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Strawberry filling</p> 
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 28px; text-align: center;">Blueberry filling</p> 
+    </h5>
+
+    <h1>
+        <p>
+            <img src="imagenes/cake decorating_ Grocery & Gourmet Food.jpg" width="800px" height="799px" align="right" alt=One_piece>
+        </p>
+        <h1 style="color: lavender; font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;"><br><br><br><br><br><br>Mugiwara<br></h1>
+        <h1 style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 30ppx; text-align: center;">Let's found the One Piece</h1>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Price: 100$</p>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">If you want this cake please call this phon: 8333923407</p>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Ingredients:</p>
+        <p style="color: lavender; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Yellow foundiu</p>
+        <p style="color: whitesmoke; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Chocolate candies</p>    
+        <p style="color: whitesmoke; font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Vanilla bread</p>
+        <p style="color: whitesmoke; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Chocolate filling</p>
+
+        <h1>
+            <p>
+                <img src="imagenes/wedding queki.jpg" width="500px" height="500px" margin="50" align="left" alt=Wed_cake>
+           </p>
+           <h1 style="color: whitesmoke; font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;"><br><br><br><br><br>Wedding cake<br></h1>
+           <h1 style="color: whitesmoke; font-family:'Times New Roman', Times, serif; font-size: 30ppx; text-align: center;">An especial cake for a special day</h1>
+           <p style="color: whitesmoke; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Price: 250$</p>
+           <p style="color: whitesmoke; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">If you want this cake please call this phon: 8333923407</p>
+           <p style="color: whitesmoke; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Ingredients:</p>
+           <p style="color: whitesmoke; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">White frosting</p>
+           <p style="color: whitesmoke; font-family:'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Strawberry frosting</p>    
+           <p style="color: whitesmoke; font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Flowers</p>
+        
+           <div id="btx">
+           <a href="short cake bakery.html"; title="principal">   
+           <button style="text-align: center; font-size: 30px; font-family:'Times New Roman', Times, serif; width: 300px; height: 100px;"class="bt1 btx">Short bakery
+           </button>    
+        </div>
+
+        <audio>
+            <video width="800" height="2000" autoplay>
+                <source src="videos/Y2mate.mx-One Piece Vibes - Overtaken (Kato Cover).mp4" type="video/mp4">
+            </video>
+            </audio>
+
+
+</body>
+</html>
