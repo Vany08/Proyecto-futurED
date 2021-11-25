@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cupcakes</title>
+    <link rel="shortcut icon" type="image" href="imagenes/favicon-32x32.png"
+</head>
+
+<style type="text/css">
+.btx{text-align: center; color: aquamarine; color:cadetblue; border-radius: 10px; margin-inline: 500px;}                                                    
+</style>
+
+
+<body style="background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/76941dd5-be18-4cda-ac4c-ce8a28fa8500/d8mntmg-f8b9e380-dc8b-4413-81b8-c4909e56a2a3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc2OTQxZGQ1LWJlMTgtNGNkYS1hYzRjLWNlOGEyOGZhODUwMFwvZDhtbnRtZy1mOGI5ZTM4MC1kYzhiLTQ0MTMtODFiOC1jNDkwOWU1NmEyYTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.V_tS0umiipT40Xrvd5Yia8oSUPGaUBICeuqmCmvcKYo);">
+    <div style="background-color: darkorchid; width: 1300px; height: 200px; font-family: serif; font-size: 170px; text-align: center;">Cupcakes</div>
+
+ <h1>
+     <p>
+    <img src="imagenes/Macacup.jpg" width="700" height="700" margin= "100" align= left alt="Macacup">
+     </p>
+     <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Variety</h1>
+     <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Just beutiful cupcakes whit beutiful flavors</h1>
+     <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+     <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+     <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+     <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Blackberry and blueberry</p>
+     <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Strawberry and melon</p>
+     <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Macaron</p>
+  </h1>
+
+  <h1>
+      <p>
+    <img src="imagenes/galactic cupcake.jpg" width="600" height="600" align= right alt="Galaxy">
+      </p>
+      <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;"><br><br>Galactic cupcake</h1>
+      <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Let´s taste the galaxy</h1>
+      <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+      <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+      <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+      <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Blueberry frosting</p>
+      <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Chocolate muffin</p>
+   </h1>
+    
+   <h1>
+     <p>
+    <img src="imagenes/lemon cupcakes.jpg" margin= "50" align= left alt="lemon">
+     </p>
+      <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;"><br><br>Lemon cupcake</h1>
+      <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">A mis of sour and sweet</h1>
+       <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+       <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+       <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+       <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Vanilla muffin</p>
+       <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Lemon frosting</p>
+       <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Lemon</p>
+    </h1>
+   
+    <h1>
+      <p>
+    <img src="imagenes/ferrero.jpg" align= right alt="ferrero">
+      </p>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;"><br>Mmmm...chocolate</h1>
+      <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">A mix of white oreo and brown ferrerp</h1>
+      <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+      <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+      <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+      <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Chocolate and white chocolate</p>
+      <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Oreo</p>
+      <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Ferrero rocher</p>
+   </h1>
+   <h1>
+       <p>
+    <img src="imagenes/freychoc.jpg" width= "600" height= "600" align= left alt="fre y choc">
+    </p>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;"><br>Tiny and delicious cupcakes</h1>
+       <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">They are so smoool</h1>
+       <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+       <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">if you want this cupcake plese call this phone: 8333923407 </p>
+       <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+       <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Strawberries and marshmellows</p>
+       <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Chocolate and vanilla frosting</p>
+       <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Chocolate and vanilla muffin</p>
+</h1>
+
+
+<h1>
+    <p>
+<img src="imagenes/botanicflower.jpg" width= "600" height= "600" align= right alt="Botanicflower">
+    </p>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;"><br>Botanic flowers</h1>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Beutiful and delicious flowers</h1>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Pink, green and white frosting</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Chocolate filling</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Vanilla muffin</p>
+</h1>
+
+<h1>
+    <p>
+<img src="imagenes/cercupcake.jpg" align=left alt="Cercupcake">
+    </p>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Blackberry cupcake</h1>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Simple and good</h1>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Blackberry frosting</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Blackberry</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Banana muffin</p>
+</h1>
+
+<h1>
+    <p>
+<img src="imagenes/fruit cupcake.jpg" width= "600" height="600" align=right alt="fruit cupcake">
+    </p>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Coctel!!</h1>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">An elegant dessert for visitors</h1>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Blackberry, blueberry, raspberry and strawberry</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Strawberry frosting</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Vanilla frosting</p>
+</h1>
+
+<h1>
+    <p>
+<img src="imagenes/pie cupcake.jpg" width="600" height="600" align=left alt="pie cupcake">
+    </p>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Cherry!</h1>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Sweet and elegant</h1>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Cherry and cherry jam</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Vanilla frosting</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Vanilla muffin</p>
+</h1>
+
+<h1>
+    <p>
+<img src="imagenes/blueberries.jpg" width="500" height="500" align=right alt="blueberries">        
+    </p>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Blue just blue</h1>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">The best blueberry cupcake</h1>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">If you want this icecream please call this phone: 8333923407</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Blueberry and blueberry frosting</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Vanilla muffin</p>
+</h1>
+
+<h1>
+    <p>
+<img src="imagenes/chocolate cupcakes.jpg" width="500" height="600" align= left alt="chcolate cupcake">
+    </p>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Shoclet</h1>
+    <h1 style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Sweet chocolate cupcakes to enjoy whit family and friends</h1>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Price:</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">If you want this cupcake please call this phone: 8333923407</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Ingredients:</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Chocolate and brown chocolate</p>
+    <p style="color: black; font-family: cursive; font-size: 30px; text-align: center;">Blackberry</p>
+</h1>
+
+<div id="btx">
+    <a href="short cake bakery.html"; title="short bakery">   
+    <button style="text-align: center; font-size: 30px; font-family:'Times New Roman', Times, serif; width: 300px; height: 100px;"class="bt1 btx">Short bakery
+    </button>
+
+    <audio>
+        <video width="800" height="2000" autoplay>
+            <source src="videos/Y2mate.mx-Dumbledore's Army - Harry Potter lofi remix.mp4" type="video/mp4">
+        </video>
+        </audio>
+
+</body>
+</html>
