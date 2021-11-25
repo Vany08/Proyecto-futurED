@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Macarons</title>
+    <link rel="shortcut icon" type="image" href="imagenes/favicon-32x32.png"
+
+</head>
+
+<style type="text/css">
+.btx{text-align: center; color: aquamarine; color:cadetblue; border-radius: 10px; margin-inline: 500px;}                                                    
+
+#logo {
+ width: 60px;
+}
+</style>
+    
+<body style="background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/76941dd5-be18-4cda-ac4c-ce8a28fa8500/d8mntn6-05aef7d2-c500-4706-a2c7-31d3819de7ab.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc2OTQxZGQ1LWJlMTgtNGNkYS1hYzRjLWNlOGEyOGZhODUwMFwvZDhtbnRuNi0wNWFlZjdkMi1jNTAwLTQ3MDYtYTJjNy0zMWQzODE5ZGU3YWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WfIarYq4yN3osR23V-eVSL0JdgESdjfSwiNDA-JLFP8);">
+    <div style= "background-color: lightskyblue; width: 1300px; height: 200px; font-family: fantasy; font-size: 150px; text-align: center;">Macarons</div>
+
+<h1>
+    <p>
+ <img src="imagenes/Harry macaron.jpg" align="left" alt="Harry Macaron">
+    </p>
+<h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;">Hogwarts mystery macarons</h1>
+<h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;">Feel the magic, the delicious. delicious magic</h1>
+<p style="color:black; font-family: monospace; font-size:30px; text-align: center;">If you want this macaron please call this phone: 8333923407</p>
+<p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Price:</p>
+<p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Ingredients:</p>
+<p style="color:black; font-family: monospace; font-size:30px; text-align: center;">White chocolate</p>
+<p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Chocolate and yogurt</p>
+</h1>
+
+<h1>
+    <p>
+<img src="imagenes/cute.jpg" align="right" width="600" height="600" alt="Cute">
+    </p>
+<h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;"><br><br><br>Cute</h1>
+<h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;">Pink and sweet macarons</h1>
+<p style="color:black; font-family: monospace; font-size:30px; text-align: center;">If you want this macaron please call this phone: 8333923407</p>
+<p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Price:</p>
+<p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Ingredients:</p>
+<p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Yogurt</p>
+<p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Strawberry yogurt</p>
+</h1>
+
+<h1>
+    <p>
+<img src="imagenes/Bees.jpg" align="left" width="600" height="600" alt="Honey">
+    </p>
+    <h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;"><br><br>Honey macarons</h1>
+    <h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;">From:Bees</h1>
+    <h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;">To: Us</h1>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">If you want this macaron please call this phone: 8333923407</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Price:</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Ingredients:</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Honey</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Coconut</p>
+</h1>
+
+<h1>
+    <p>
+<img src="imagenes/French.jpg" align="right" width="500" height="500" alt="French">
+    </p>
+    <h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;">Chocolate Cherry</h1>
+    <h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;">Whit fancy</h1>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">If you want this macaron please call this phone: 8333923407</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Price:</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Ingredients:</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Chocolate</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Strawberry</p>
+</h1>
+
+<h1>
+   <p>
+ <img src="imagenes/cherry.jpg" align="left" width="520" height="520" alt="Cherry">
+  </p>
+<h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;"><br>Cherry</h1>
+    <h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;">A sweet and dark taste</h1>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">If you want this macaron please call this phone: 8333923407</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Price:</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Ingredients:</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Cherries</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Yogurt</p>
+</h1>
+
+<h1>
+    <p>
+  <img src="imagenes/we macaron bears.jpg" align="right" width="600" height="600" alt="We macaron bears">
+    </p>
+    <h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;"><br>We macaron bears</h1>
+    <h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;">Oh my goodness ist a bear!</h1>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">If you want this macaron please call this phone: 8333923407</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Price:</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Ingredients:</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Chocolate</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">White chocolate</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Dark chocolate</p>
+</h1>
+
+<h1>
+    <p>
+  <img src="imagenes/roses.jpg" align="left" width="500" height="570" margin="50"alt="Roses">
+    </p>
+    <h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;"><br>Roses</h1>
+    <h1 style="color:black; font-family: monospace; font-size:30px; text-align: center;">A sweet pink macaron decorate whit pretty beutiful roses</h1>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">If you want this macaron please call this phone: 8333923407</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Price:</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Ingredients:</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">White chocolate</p>
+    <p style="color:black; font-family: monospace; font-size:30px; text-align: center;">Strawberry</p>
+</h1>
+
+<div id="btx">
+    <a href="short cake bakery.html"; title="principal">   
+    <button style="text-align: center; font-size: 30px; font-family:'Times New Roman', Times, serif; width: 300px; height: 100px;"class="bt1 btx">Short bakery
+    </button>    
+ </div>
+
+ <audio>
+    <video width="800" height="2000" autoplay>
+        <source src="videos/Y2mate.mx-xoedoxo - A New Day (Instrumental) (Official Audio).mp4" type="video/mp4">
+    </video>
+    </audio>
+</body>
+</html>
