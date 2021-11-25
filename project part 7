@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About us</title>
+    <link rel="shortcut icon" type="image" href="imagenes/favicon-32x32.png"
+</head>
+
+<style type="text/css">
+.btx{text-align: center; color: aquamarine; color:cadetblue; border-radius: 10px; margin-inline: 500px;}                                                    
+
+#logo {
+ width: 60px;
+}
+</style>
+
+<body style=background-color:black>
+    <div style="background-color: rgb(213, 146, 241); width: 1300px; height: 200px; font-family: serif; font-size: 170px; text-align: center;">About us</div>
+   
+    <h1>
+    <video width="500" height= "500" controls>
+    <source src="videos/VID-20211121-WA0004 (1).mp4" type="video/mp4"></video>
+
+
+   <video width="500" height= "500" controls>
+    <source src="videos/VID-20211121-WA0001 (1).mp4" type="video/mp4">
+   </video>
+</h1>
+   <audio>
+    <video width="800" height="2000" autoplay>
+    <source src="videos/Y2mate.mx-Snowy .mp4" type="video/mp4">
+    </video>
+    </audio>
+
+    <h1>
+        <p style="color:white; text-align: center; font-size: 60px;">We are a pastry shop that seeks to</p>
+        <p style="color:white; text-align: center; font-size: 60px;">make the lives of our clients more delicious</p> 
+        <p style="color:white; text-align: center; font-size: 60px;">by producing fine pastries in different presentations,</p>
+        <p style="color:white; text-align: center; font-size: 60px;">considering the best finishes and ingredients and techniques,</p>
+        <p style="color:white; text-align: center; font-size: 60px;">as well as the professional</p>
+        <p style="color:white; text-align: center; font-size: 60px;"> training of our pastry chefs.</p>
+    </h1>
+
+
+    <div id="btx">
+        <a href="short cake bakery.html"; title="principal">   
+        <button style="text-align: center; font-size: 30px; font-family:'Times New Roman', Times, serif; width: 300px; height: 100px;"class="bt1 btx">Short bakery
+        </button>    
+     </div>
+</body>
+</html>
