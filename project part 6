@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coockies</title>
+    <link rel="shortcut icon" type="image" href="imagenes/favicon-32x32.png"
+</head>
+
+<style type="text/css">
+.btx{text-align: center; color: aquamarine; color:cadetblue; border-radius: 10px; margin-inline: 500px;}                                                    
+
+#logo {
+ width: 60px;
+}
+</style>
+
+<body style="background-color: black;"> 
+    <div style= "background-color: orange; width: 1300px; height: 200px; font-family: initial; font-size:150px; text-align: center;">Cookies</div>
+
+    <h1>
+        <p>
+       <img src="imagenes/mini coockies.jpg" width="700" height="700" margin= "100" align= left alt="Mini">
+        </p>
+        <h1 style="color: rgb(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;"><br>Mini</h1>
+        <h1 style="color: rgba(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Mini and delicious cookies to enjoy!</h1>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Price:</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">If you want this cupcake please call this phone: 8333923407</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Ingredients:</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Strawberry</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Chocolate and vanila</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Sugar</p>
+    </h1>
+   
+     <h1>
+         <p>
+       <img src="imagenes/gotta love whit corgie cookies.jpg" width="600" height="600" align= right alt="Corgie">
+         </p>
+         <h1 style="color: rgb(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;"><br><br><br><br>Got a love with corgie cookies</h1>
+         <h1 style="color: rgba(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Sweet and cute corgies to eat</h1>
+         <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Price:</p>
+         <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">If you want this cupcake please call this phone: 8333923407</p>
+         <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Ingredients:</p>
+         <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Vanilla</p>
+         <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Chocolate</p>
+         
+      </h1>
+       
+      <h1>
+        <p>
+       <img src="imagenes/pastisetas.jpg" margin= "50" width="700" height="700" align= left alt="pastisetas">
+        </p>
+        <h1 style="color: rgb(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;"><br><br><br>Star butter tea cookies</h1>
+        <h1 style="color: rgba(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Stars!!!</h1>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Price:</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">If you want this cupcake please call this phone: 8333923407</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Ingredients:</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Chocolate</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Vanilla</p>
+
+   
+   <h1>
+       <p>
+          <img src="imagenes/tentazoine.jpg" width="560" height="560" align=right alt="blueberries">        
+       </p>
+       <h1 style="color: rgb(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;"><br><br><br><br><br><br>Tentazoine</h1>
+       <h1 style="color: rgba(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Yumm</h1>
+       <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Price:</p>
+       <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">If you want this cupcake please call this phone: 8333923407</p>
+       <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Ingredients:</p>
+       <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Almonds and chocolate</p>
+       <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;"></p>
+   </h1>
+   
+   <h1>
+       <p>
+   <img src="imagenes/s´more coockies.jpg" width="500" height="600" align= left alt="cookies">
+       </p>
+       <h1 style="color: rgb(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;"><br>S'more cookies</h1>
+       <h1 style="color: rgba(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Cookies to go camp no more traditional s'mores</h1>
+       <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Price:</p>
+       <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">If you want this cupcake please call this phone: 8333923407</p>
+       <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Ingredients:</p>
+       <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Chocolate and marshmellows</p>
+       <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Vanilla</p>
+   
+       <h1>
+        <p>
+       <img src="imagenes/chocolate chips.jpg" width="700" height="700" margin= "100" align= right alt="Macacup">
+        </p>
+        <h1 style="color: rgb(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;"><br><br><br>Cukisss</h1>
+        <h1 style="color: rgba(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Cookies just cookies</h1>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Price:</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">If you want this cupcake please call this phone: 8333923407</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Ingredients:</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Vanilla</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Chocolate chips</p>
+   
+        <h1>
+        <p>
+        <img src="imagenes/star coockies.jpg" width="700" height="700" margin= "100" align= left alt="Macacup">
+        </p>
+        <h1 style="color: rgb(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;"><br><br><br><br>Star in a cookie</h1>
+        <h1 style="color: rgba(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Delicious cookie</h1>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Price:</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">If you want this cupcake please call this phone: 8333923407</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Ingredients:</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Vanilla and sugar</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Strawberry jam</p>
+   
+        <h1>
+        <p>
+        <img src="imagenes/ripieno.jpg" width="585" height="585" margin= "50" align= right alt="Macacup">
+        </p>
+        <h1 style="color: rgb(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;"><br><br><br><br><br>Ripieno</h1>
+        <h1 style="color: rgba(255, 255, 97, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Sweet</h1>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Price:</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">If you want this cupcake please call this phone: 8333923407</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Ingredients:</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 30px; text-align: center;">Sugar</p>
+        <p style="color: rgba(255, 255, 85, 0.815); font-family: 'Times New Roman', Times, serif; font-size: 29px; text-align: center;">Chocolate and almonds</p>
+       </h1>
+       
+       <div id="btx">
+        <a href="short cake bakery.html"; title="principal">   
+        <button style="text-align: center; font-size: 30px; font-family:'Times New Roman', Times, serif; width: 300px; height: 100px;"class="bt1 btx">Short bakery
+        </button>
+
+        <audio>
+            <video width="800" height="2000" autoplay>
+                <source src="videos/Y2mate.mx-We bare bears (Lofi remix).mp4" type="video/mp4">
+            </video>
+            </audio>
+
+
+
+
+</body>
+</html>
